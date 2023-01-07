@@ -10,7 +10,9 @@
 
 ### :man_technologist: About Me :
 
-🌱 I’m currently learning HTML & CSS and I have recently started to solve some challenges.
+- 🌱 I’m currently learning HTML & CSS and I have recently started to solve some challenges.
+
+- 📫 How to reach me: <a href="https://twitter.com/MalloryCvlh"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" width="100"></a>
 
 ---
 
@@ -26,8 +28,6 @@
 
 ### :fire: My Stats :
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mallory-cvlh&theme=github-dark&border_radius=10)](https://git.io/streak-stats)
-<br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mallory-cvlh&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
